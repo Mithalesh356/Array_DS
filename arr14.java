@@ -1,5 +1,7 @@
 //QUESTION
 //push 0 at the end without disording the whole array
+
+
 package Array;
 
 public class arr14 {
@@ -23,7 +25,7 @@ public class arr14 {
 	}
 	
 	
-	//better Solutin (Best Approaches)
+	//better Solution (Best Approaches)
 	public static void pushZeroAtEndBetter(int arr[]) {
 		int count = 0;
 		for(int i=0; i<arr.length; i++) {
