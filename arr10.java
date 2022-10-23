@@ -30,7 +30,7 @@ public class arr10 {
 	
 	
 	//function for print Arr
-	public static void printArr(int arr[]) {
+ public static void printArr(int arr[]) {
 		System.out.println("your required array =>");
 		for(int i=0; i< arr.length; i++) {
 			System.out.print(arr[i] +" ");
