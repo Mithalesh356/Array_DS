@@ -1,4 +1,4 @@
-package Array;
+// package Array;
 
 //que:- Array containig 0 and 1 you have to sort 0 and 1
 
